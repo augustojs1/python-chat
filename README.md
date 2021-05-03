@@ -1,6 +1,6 @@
 # Python Chat 
 
-Chat desenvolvido como trabalho para a matéria de Atividades Práticas Supervisionadas no 5° do curso de Ciência da Computação na Universidade Paulista.  
+Chat desenvolvido como trabalho para a matéria de Atividades Práticas Supervisionadas no 5° período do curso de Ciência da Computação na Universidade Paulista.  
 Projeto desenvolvido em Python usando o protocolo TCP para a comunicação.
 
 ## Tecnologias
@@ -9,6 +9,8 @@ Projeto desenvolvido em Python usando o protocolo TCP para a comunicação.
 
 
 ## Guia
+* Altere a variável host para o endereço de localhost da sua máquina
+
 * Entre no diretório dos arquivos e execute o arquivo de servidor que irá receber as conexões:  
 ``` python server.py ```  
 
